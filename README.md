@@ -1,7 +1,7 @@
 # NEIGHBOURHOOD
 
 ## Authors
-  - [Martin Omollo]()
+  - [Martin Omollo](https://github.com/MARTIN-OMOLLO/neighbour.git)
   
 
   ## Authors
