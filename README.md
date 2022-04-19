@@ -21,7 +21,7 @@
   In your terminal:
 
     $ git clone https://github.com/MARTIN-OMOLLO/neighbour.git
-    $ cd GALLERY
+    $ cd NEIGHBOURHOOD
 
   # Running the Application
   To run the application, in your terminal:
