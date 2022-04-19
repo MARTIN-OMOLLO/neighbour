@@ -20,7 +20,7 @@
   # Cloning
   In your terminal:
 
-    $ git clone https://github.com/MARTIN-OMOLLO/INSTAGRAM.git
+    $ git clone https://github.com/MARTIN-OMOLLO/neighbour.git
     $ cd GALLERY
 
   # Running the Application
