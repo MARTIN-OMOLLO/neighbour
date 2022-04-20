@@ -23,3 +23,6 @@ urlpatterns = [
     path('',include('neighbor_app.urls')),
     path('api-token-auth/', obtain_auth_token)
 ]
+
+
+get home
