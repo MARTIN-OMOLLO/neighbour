@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{%load bootstrap3%}
+{%block content%}
+<div class="container">
+    <div class="col-md-3"></div>
+    <div class="panel panel-default col-md-6" style="height: 200px; margin-top: 100px;">
+        
+        <div class="panel-body">
+            <img width="100%" height="100%" src="{{user.profile.profile_photo.url }}" alt="profile" class="img-responsive">
+            
+        </div>
+        <div class="panel-footer">
+            <h5><strong>Username:</strong>{{user.username}}</h5>
+            <p><strong>Email address:</strong>{{user.email}}</p>         
+            
+            <a href=""   class="btn btn-info"  style="background-color: #001d3d;">
+               Edit Profile
+            </a>
+                  
+
+{%endblock%}
